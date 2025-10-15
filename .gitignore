@@ -1,0 +1,13 @@
+
+venv/
+__pycache__/
+*.pyc
+
+*.pkl
+*.db
+*.idx
+*.bin
+*.json
+vector_store/
+data/
+.env
