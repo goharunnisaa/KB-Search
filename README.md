@@ -1,5 +1,9 @@
 # 📚 Knowledge-base Search Engine (RAG)
 
+# can access web application here
+
+ Streamlit App : https://goharunnisaa-kb-search-app-o3umwu.streamlit.app/
+
 ## Description
 This project is a **document-based search engine** that allows users to upload PDF or TXT files and ask questions about their content. It uses **vector embeddings** and **FAISS** for fast retrieval of relevant text chunks, and a **local language model (HuggingFace FLAN-T5 small)** to generate **clean, synthesized answers** in natural language.
 
