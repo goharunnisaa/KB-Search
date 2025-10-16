@@ -1,11 +1,6 @@
 streamlit
 langchain
-langchain-community
-openai
-tiktoken
-requests
-transformers
-torch
-sentence-transformers
 faiss-cpu
-python-dotenv
+huggingface-hub
+sentence-transformers
+pypdf
