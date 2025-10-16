@@ -2,5 +2,10 @@ streamlit
 langchain
 langchain-community
 openai
-requests
 tiktoken
+requests
+transformers
+torch
+sentence-transformers
+faiss-cpu
+python-dotenv
